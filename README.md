@@ -1,5 +1,5 @@
 # Code-Editor
-=======
+
 
 This project is a lightweight, web-based code editor built using React.js. It allows users to write and edit code in various programming languages (e.g., JavaScript, Python, HTML) with syntax highlighting and theme customization. The editor includes a toolbar for basic actions like running and saving code. Users can also switch between light and dark themes for a personalized experience. The project leverages libraries like monaco-editor for the editor functionality and localStorage for saving code snippets locally. It’s a great starting point for building more advanced features like code execution, collaboration, or integration with a backend service.
 =======
