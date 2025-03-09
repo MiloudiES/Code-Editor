@@ -70,7 +70,7 @@ export default function CodeEditor() {
     };
 
     return (
-        <div style={{ padding: "20px" }}>
+        <div style={{ padding: "20px"}}>
             <div style={{ marginBottom: "10px" }}>
                 <button 
                     onClick={onRunCode}
